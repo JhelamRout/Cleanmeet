@@ -1,0 +1,11 @@
+{
+  "name": "Remix CleanMeet - Community Action \u0026 Social Work",
+  "description": "Post and volunteer for local social work initiatives like plastic cleanups and tree plantings, with Google Maps live route tracking, daylight verification, women safety assurance, and verifiable LinkedIn achievement badges. Also include everyone \u0027s adhar card information in profile. Make the person who post the social work agree on taking responsibility of the works process with all legal terms. And also after the work done they all had to click on completed activity link after 1 day and 1 group pic should be updated by the posting individual  .for the badge to be generated and to mark the work as officially completed.",
+  "requestFramePermissions": [
+    "camera",
+    "geolocation"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
